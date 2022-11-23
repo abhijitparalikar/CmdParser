@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Console_DI_Template": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
